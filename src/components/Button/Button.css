@@ -1,0 +1,23 @@
+.button {
+  width: 100%;
+  background-color: #FFCE22;
+  color: #1F2128;
+  border: none;
+  border-radius: 4px;
+  padding: 12px 24px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  min-width: 120px;
+  font-family: inherit;
+}
+
+.button:hover {
+  background-color: #FFC700;
+}
+
+.button:active {
+  background-color: #FFD84D;
+}
+
